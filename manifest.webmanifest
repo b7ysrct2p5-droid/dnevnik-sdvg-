@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Дневник СДВГ",
+  "short_name": "Дневник СДВГ",
+  "description": "Личный дневник наблюдений: сон, режим, лекарства, СДВГ, тики, ОКР и события.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f3fb",
+  "theme_color": "#f4f3fb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
